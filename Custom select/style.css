@@ -58,9 +58,9 @@
 	display: block;
 }
 .selected {
-	/* display: none;
-	 */
-	 background-color: rgb(196, 255, 234);
+	display: none;
+	
+	 /* background-color: rgb(196, 255, 234); */
 }
 
 .select__item {
